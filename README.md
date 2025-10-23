@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ebenezer Ofori Amoafo</h1>
-<h3 align="center">I'm a passionate developer on a journey to become a full-stack expert. I specialize in JavaScript, React, and Node.js, and I'm always eager to learn and grow.</h3>
+<h3 align="center">I'm a passionate developer on a journey to become a full-stack expert. I specializing in JavaScript, React, and Node.js, and I'm always eager to learn and grow.</h3>
 
-- 🔭 I’m currently working on **Full-Stack Airbnb Clone**
-
-- 🌱 I’m currently learning **React,NextJS,Python**
-
-- 📫 How to reach me **ebenamoafo222@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
